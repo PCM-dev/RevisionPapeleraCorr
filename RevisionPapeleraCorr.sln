@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisionPapeleraCorr", "RevisionPapeleraCorr.csproj", "{876DEB7A-AEFD-484C-A303-21A1133CDA0B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RevisionFABP", "RevisionFABP\RevisionFABP.vdproj", "{6AF17C37-3F59-4B9F-A656-F22EDCF1D8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876DEB7A-AEFD-484C-A303-21A1133CDA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876DEB7A-AEFD-484C-A303-21A1133CDA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876DEB7A-AEFD-484C-A303-21A1133CDA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876DEB7A-AEFD-484C-A303-21A1133CDA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF17C37-3F59-4B9F-A656-F22EDCF1D8A1}.Debug|Any CPU.ActiveCfg = Debug
+		{6AF17C37-3F59-4B9F-A656-F22EDCF1D8A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4538FA22-D37C-4F7A-98C5-61B27F70F11A}
+	EndGlobalSection
+EndGlobal
